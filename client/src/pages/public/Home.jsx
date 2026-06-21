@@ -245,10 +245,10 @@ export default function Home() {
                 <span className="text-xs font-semibold uppercase tracking-[0.18em]" style={{ color: T.gold }}>Our Story</span>
               </div>
               <h2 style={{ fontFamily: "'Fraunces', Georgia, serif", fontWeight: 700, fontSize: "clamp(2rem, 3.5vw, 2.8rem)", lineHeight: 1.15, color: T.forest }}>
-                We believe every child deserves a chance to soar.
+                Think global, Act local.
               </h2>
               <p className="mt-5 text-base leading-relaxed" style={{ color: "#4A5568" }}>
-                NayePankh — meaning <em>new wings</em> — was founded in 2018 by a group of university students who believed that the simplest act of showing up could transform a life. What started as weekend teaching sessions in a single Delhi neighbourhood has grown into a nationwide movement.
+                "NayePankh Foundation"  — is a non governmental organisation with a strong desire to help the society and make it a better place for all, by doing everything in our power and to make our vision successful we would require your vital support. Service to mankind is the service to god. Let’s revolutionise the society together!.
               </p>
               <p className="mt-4 text-base leading-relaxed" style={{ color: "#4A5568" }}>
                 We work across education, nutrition, mental health, and skill-building, connecting passionate volunteers with communities that need them most. No professional experience required — only a willing heart.
