@@ -10,7 +10,7 @@ import { authAPI } from "@/api/auth.api";
 import toast from "react-hot-toast";
 
 const VOLUNTEER_NAV = [
-  { toa: "/volunteer/dashboard",    icon: LayoutDashboard, label: "Dashboard" },
+  { to: "/volunteer/dashboard",    icon: LayoutDashboard, label: "Dashboard" },
   { to: "/volunteer/tasks",        icon: ClipboardList,   label: "My Tasks" },
   { to: "/volunteer/attendance",   icon: CalendarCheck,   label: "Attendance" },
   { to: "/volunteer/certificates", icon: Award,           label: "Certificates" },
